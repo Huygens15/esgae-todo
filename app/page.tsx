@@ -6,6 +6,10 @@ export default function Home() {
       <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
         <p>Hello world !</p>
         <p>I am Chadrac</p>
+
+        <div className="w-35 bg-blue-400 p-4 rounded-lg">
+          <p>Je développe mon app</p>
+        </div>
       </main>
     </div>
   );
